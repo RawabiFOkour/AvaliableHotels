@@ -4,7 +4,7 @@
 # Install laravel :- https://laravel.com/docs/8.x/installation
 
  # To run this project :- 
-   1. run command : git clone
+   1. clone project
    2. run command : composer install
    3. create .env file
    4. run command : php artisan key:generate
